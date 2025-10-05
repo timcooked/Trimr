@@ -17,7 +17,7 @@ Built with a modern stack for performance, reliability, and a beautiful dark-the
 - [Go](https://go.dev/)  
 - [MongoDB](https://www.mongodb.com/)  
 
-🔗 **Backend Repository:** *[Add link to backend repo here]*  
+🔗 **Backend Repository:** *https://github.com/timcooked/Trimr-backend*  
 
 ---
 
